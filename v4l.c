@@ -1,3 +1,9 @@
+/*
+*this is the main program 
+*
+*
+*
+*/
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
